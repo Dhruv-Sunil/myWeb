@@ -1,0 +1,25 @@
+h1{
+    color:aqua
+}
+*{
+    border-top-color:#ff0000 ;
+    border-bottom-color:blueviolet;
+    border-left-color:burlywood;
+    border-right-color:rgb(175,75,99);
+    border-width: 5px;
+    border-style:dotted
+}
+.header{
+background-image:url("clock.jpg");
+display:flex;
+justify-content: space-around;
+
+}
+table, th, td {
+     border: 2px solid green;
+      text-align:center;
+     }
+      th, td {
+           padding: 20px;
+         background-color:none;
+         }
